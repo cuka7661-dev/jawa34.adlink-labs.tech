@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jawa34.adlink-labs.tech/sitemap.xml
